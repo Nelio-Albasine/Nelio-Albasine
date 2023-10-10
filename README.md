@@ -2,7 +2,7 @@
 
 📱 **Desenvolvimento Mobile**:
    - Nativo: Tenho experiência em desenvolvimento nativo para Android e iOS.
-   - Híbrido: Trabalho com soluções híbridas para dispositivos móveis.
+   - Híbrido: Trabalho com soluções híbridas (React native & Flutter) para dispositivos móveis.
 
 🌍 **Desenvolvimento Web**:
    - Front-end: Proficiente em HTML, CSS e JavaScript para criar sites responsivos e interativos.
