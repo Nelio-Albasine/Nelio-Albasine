@@ -6,6 +6,7 @@
 
 🌍 **Desenvolvimento Web**:
    - Front-end: Proficiente em HTML, CSS e JavaScript para criar sites responsivos e interativos.
+   - Back-end: php, javascript, java (Node.js. Express.js)
 
 💻 **Desenvolvimento Desktop**:
    - Utilizo Electron para criar aplicativos desktop multiplataforma.
