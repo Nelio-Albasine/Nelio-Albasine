@@ -12,3 +12,5 @@
    - Utilizo Electron para criar aplicativos desktop multiplataforma.
 
 Estou sempre buscando novas oportunidades e desafios para expandir meu conjunto de habilidades. Se você estiver interessado em trabalhar comigo ou apenas quiser bater um papo, sinta-se à vontade para entrar em contato!
+
+**Sim, essa descrição foi feita usando o GPT. Sou programador e não um Copywriter.**
